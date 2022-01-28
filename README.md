@@ -13,6 +13,8 @@ Une méthodologie en 3 étapes :
 
 Restitution visuelle sous forme de ***datavisualisations***.
 
+<br>
+
 ---
 
 [Rapport final](https://datactivist.coop/cas-dusage_DECP_public/Restitution.html) pour la restitution du 28 janvier 2022 au groupe de travail Achat de France Urbaine. 
